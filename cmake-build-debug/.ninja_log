@@ -1,5 +1,19 @@
 # ninja log v6
-14	1097	7707534503171745	CMakeFiles/Binary_Search_Tree.dir/main.cpp.obj	bbec981f9dedeb2c
-35	698	7707534836456021	build.ninja	378bdf20617f39ac
-101	2657	7707534839526590	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
-2660	3085	7707534865130548	Binary_Search_Tree.exe	c89bbbee932028a2
+37	1455	7707580476416658	CMakeFiles/Binary_Search_Tree.dir/main.cpp.obj	bbec981f9dedeb2c
+35	698	7707711278085693	build.ninja	378bdf20617f39ac
+52	3063	7707580476570665	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+3063	3548	7707580506674681	Binary_Search_Tree.exe	c89bbbee932028a2
+111	1436	7707719713739189	CMakeFiles/Binary_Search_Tree.dir/main.cpp.obj	bbec981f9dedeb2c
+126	2953	7707719713875109	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+2953	3759	7707719742143498	Binary_Search_Tree.exe	c89bbbee932028a2
+57	1298	7707721051380618	CMakeFiles/Binary_Search_Tree.dir/main.cpp.obj	bbec981f9dedeb2c
+67	2761	7707721051490635	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+2762	3198	7707721078438142	Binary_Search_Tree.exe	c89bbbee932028a2
+11	1073	7707724219425247	CMakeFiles/Binary_Search_Tree.dir/main.cpp.obj	bbec981f9dedeb2c
+1074	1487	7707724230065645	Binary_Search_Tree.exe	c89bbbee932028a2
+53	3070	7707736392730590	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+121	2947	7707739537399763	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+64	2662	7707740043761967	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+53	1317	7707740709554039	CMakeFiles/Binary_Search_Tree.dir/main.cpp.obj	bbec981f9dedeb2c
+63	2697	7707740709673737	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+2697	3201	7707740735998377	Binary_Search_Tree.exe	c89bbbee932028a2
