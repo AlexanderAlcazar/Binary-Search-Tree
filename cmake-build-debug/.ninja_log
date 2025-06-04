@@ -1,0 +1,5 @@
+# ninja log v6
+14	1097	7707534503171745	CMakeFiles/Binary_Search_Tree.dir/main.cpp.obj	bbec981f9dedeb2c
+35	698	7707534836456021	build.ninja	378bdf20617f39ac
+101	2657	7707534839526590	CMakeFiles/Binary_Search_Tree.dir/tests.cpp.obj	ed8a6fd01798343
+2660	3085	7707534865130548	Binary_Search_Tree.exe	c89bbbee932028a2
