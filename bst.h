@@ -206,6 +206,8 @@ template<typename Type>
 Node<Type>* BinarySearchTree<Type>::insert(Node<Type>* node, Type value) {
     if(node == nullptr)
     	return new Node<Type>(value,nullptr,nullptr);
+	else if (value == node->value())
+		return node;
 	else if (value < node->value())
 		node->left(insert(node->left(),value));
 	else

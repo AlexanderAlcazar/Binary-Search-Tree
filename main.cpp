@@ -8,16 +8,6 @@ using std::cin;
 
 int main() {
 
-	BinarySearchTree<int> tree;
-	tree.insert(5);
-	tree.insert(1);
-	tree.insert(3);
-	tree.insert(2);
-	cout << tree.height()<<endl;
-
-
-
-
 	int testNum = 0;
 	while (cout << endl << "\nEnter Test Number.  A negative value will quit" << endl
 		&& cin >> testNum
