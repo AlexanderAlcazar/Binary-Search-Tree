@@ -363,8 +363,8 @@ Node<Type> *BinarySearchTree<Type>::remove(Node<Type> *node, Type value) {
 // BinarySearchTree<Type>::report
 template<typename Type>
 void BinarySearchTree<Type>::report() const {
-    //********* TODO **********
-    std::string msg = "Analysis";
+
+    std::string msg = "When the input data was random, my_bst performed slightly faster than std::set, though the gap between their performances shrank as the test size increased. While my_bst's performance was faster, it is highly dependent on the order of the input data; stl::set's performance is consistent and predictable regardless of the input pattern. This is because std::set is typically implemented as a self-balancing binary search tree. A self-balancing tree is slightly slower because after every insertion it needs to rebalance. Rebalancing increases the overhead of the algorithm but manages to keep the time complexity close to O(log N) for all data. ";
     std::cout << msg << std::endl;
 }
 
